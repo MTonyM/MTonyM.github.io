@@ -27,7 +27,7 @@ Skills
 	* Medium skills in R language, golang, Matlab, Arduino
 	* Know C/C++, pointers.
 * __DeepLearning Frameworks__
-	* pytorch1.3.0
+	* PyTorch1.3.0
 	* Tensorflow2.0(Keras)
 	* Scikit-learn, Pandas, Numpy, Matplotlib
 
@@ -38,7 +38,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  -->
-  
+
 <!-- 
 Talks
 ======
@@ -47,13 +47,13 @@ Talks
   {% endfor %}</ul>
  -->
 <!-- 
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
