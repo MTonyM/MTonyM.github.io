@@ -25,10 +25,10 @@ Project Experience
 Skills
 ------
 
--  __Coding__
-  - Strongly skills in Python3.6/Python2.7
-  - Medium skills in R language, golang, Matlab, Arduino
-  - Know C/C++, pointers.
+*  __Coding__
+  * Strongly skills in Python3.6/Python2.7
+  * Medium skills in R language, golang, Matlab, Arduino
+  * Know C/C++, pointers.
 
 * __DeepLearning Frameworks__
 	* [PyTorch1.3.0](https://pytorch.org/)
