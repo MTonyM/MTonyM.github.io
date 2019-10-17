@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* 2019 Jan - Present: Researcher
+* *2019 Jan - Present*: Researcher
   * AI Lab, Bytedance Inc.
   * Duties included: Developing frameworks, research topics in human pose transfer, video object segmentation.
   * Supervisor: Ke Li, Yuning Jiang
@@ -23,13 +23,13 @@ Work experience
 Skills
 ======
 * Coding
-	* Strongly skills in Python3.6
+	* Strongly skills in Python3.6/Python2.7
 	* Medium skills in R language, golang, Matlab, Arduino
 	* Know C/C++, pointers.
 * DeepLearning Frameworks
-	* pytorch
-	* tensorflow(keras)
-	* scikit-learn
+	* pytorch1.3.0
+	* Tensorflow2.0(Keras)
+	* Scikit-learn, Pandas, Numpy, Matplotlib
 
 <!-- 
 Publications
