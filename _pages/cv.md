@@ -17,9 +17,13 @@ redirect_from:
 ## Work Experience
 * ***2019 Jan - Present:* Researcher**
   * AI Lab, Bytedance Inc.
-  * Duties included: Developing frameworks, research topics in human pose transfer, video object segmentation.
+  * Duties included: Developing frameworks, research topics in human pose transfer, video object segmentation, font effect generation(Deeplearning).
   * Supervisor: Ke Li, Yuning Jiang
-  
+
+* ***2016 Jul - 2016 Aug:* Frontier Web Developer**
+	* Boonray Inc.
+	* Duties included: Developing a web app to present 3D mesh models of roofs which will be built a Distributed photovoltaic power station through Three.js, including measuring roofs, simulation of placing Photovoltaic boards, automatically generating investigation report.
+	* This webapp increasing 50% income than before in sales of roof-measuring-UAVs.
 ## Project Experience
 * ***2018 Sep - 2019 Jul*: DeepLearning Method in 3D Medical Image Segmentation**
   * SIST, ShanghaiTech University
@@ -32,9 +36,9 @@ redirect_from:
 
 ## Skills
 *  __Coding__
-  * Strongly skills in Python3.6/Python2.7
-  * Medium skills in R language, golang, Matlab, Arduino, JavaScript, Java.
-  * Know C/C++, pointers.
+	* Strongly skills in Python3.6/Python2.7
+	* Medium skills in R language, golang, Matlab, Arduino, JavaScript, Java.
+	* Know C/C++, pointers.
 * __DeepLearning Frameworks__
 	* [PyTorch1.3.0](https://pytorch.org/)
 	* [Tensorflow2.0](https://tensorflow.google.cn/)(Keras)
