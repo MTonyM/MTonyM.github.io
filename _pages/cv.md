@@ -20,7 +20,14 @@ Work Experience
   
 Project Experience
 ------
-- 
+* ***2018 Sep - 2019 Jul*: DeepLearning Method in 3D Medical Image Segmentation**
+  * SIST, ShanghaiTech University
+  * Modified DeepLab model with sparse feature encoding. Email to [me](maito:maoym.tony@gmail.com) for more information.
+  * Supervisor: [Professor Xuming He](https://xmhe.bitbucket.io/).
+* ***2019 Aug - 2019 Nov*: Human Pose Tranfer By Encoding Features**
+  * AI Lab, Bytedance Inc.
+  * In processing to CVPR2020.
+  * Collaborated with: Yifang Men, PKU.
 
 Skills
 ------
