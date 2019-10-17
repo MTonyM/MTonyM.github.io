@@ -10,7 +10,7 @@ redirect_from:
 
 Yiming is a Post-bachelor graduate from [School of information Science and Technology, ShanghaiTech University](http://sist.shanghaitech.edu.cn/). His research interest is about Medical Image Processing, Generative Model, Human Pose Transfer, Deeplearning Interpretability, Sparse Representation. He is now a researcher in [AILab, Bytedance Inc.](https://ailab.bytedance.com/) During the working time, his skills in engineering improved obviously. And he is ready for an aboard study/research career.
 
-##HighLight
+## HighLight
 
 - __2019-10-17__:	I am available for now, looking for a *Graduate by Research* degree in Sydney.
 
