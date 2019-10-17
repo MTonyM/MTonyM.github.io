@@ -24,6 +24,7 @@ redirect_from:
 	* Boonray Inc.
 	* Duties included: Developing a web app to present 3D mesh models of roofs which will be built a Distributed photovoltaic power station through Three.js, including measuring roofs, simulation of placing Photovoltaic boards, automatically generating investigation report.
 	* This webapp increasing 50% income than before in sales of roof-measuring-UAVs.
+
 ## Project Experience
 * ***2018 Sep - 2019 Jul*: DeepLearning Method in 3D Medical Image Segmentation**
   * SIST, ShanghaiTech University
