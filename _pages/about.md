@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Yiming is a Post-bachelor graduate from [School of information Science and Technology, ShanghaiTech University](http://sist.shanghaitech.edu.cn/). His research interests are about **Medical Image Processing, Generative Model, Human Pose Transfer, Deeplearning Interpretability, Sparse Representation**. He is now a researcher in [AI Lab, Bytedance Inc.](https://ailab.bytedance.com/) During the working time, his skills in engineering improved obviously. And he is ready for an aboard study/research career.
+Yiming is a Post-bachelor graduated from [School of information Science and Technology, ShanghaiTech University](http://sist.shanghaitech.edu.cn/). Majored in Computer Science and his research interests are about **Medical Image Processing, Generative Model, Human Pose Transfer, Deeplearning Interpretability, Sparse Representation**. He is now a researcher in [AI Lab, Bytedance Inc.](https://ailab.bytedance.com/) During the working time, his skills in engineering improved obviously. And he is ready for an aboard study/research career.
 
-## HighLight
+## HighLights
 
 - __2019-10-17__:	I am available for now, looking for a ***Graduate by Research*** degree in ***Sydney***.
 - __2019-07-01__:	I just graduated from [School of information Science and Technology, ShanghaiTech University](http://sist.shanghaitech.edu.cn/).
