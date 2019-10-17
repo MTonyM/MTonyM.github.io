@@ -17,8 +17,7 @@ obviously. And he is ready for an aboard study/research career.
 
 
 ## HighLight
-- 2019-10-17:	I am available for now, looking for a *Graduate by Research* degree in Sydney.
-- 2019-07-01:	I just graduated.
-- 2019-06-15:	My graduation thesis(a deeplearning method in 3D medical image segmentation) 
-was successfully accepted.
+- __2019-10-17__:	I am available for now, looking for a *Graduate by Research* degree in Sydney.
+- __2019-07-01__:	I just graduated.
+- __2019-06-15__:	My graduation thesis(a deeplearning method in 3D medical image segmentation) was successfully accepted.
 
