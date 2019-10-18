@@ -15,12 +15,12 @@ redirect_from:
 * **B.S.** in Shanghai, ShanghaiTech University, ***2015 - 2019*** 
 
 ## Work Experience
-* ***2019 Jan - Present:* Researcher**
+* ***2019 Jan - Present:* Computer Vision Researcher**
   * AI Lab, Bytedance Inc.
   * Duties included: Developing frameworks, research topics in human pose transfer, video object segmentation, font effect generation(Deeplearning).
   * Supervisor: Ke Li, Yuning Jiang
 
-* ***2016 Jul - 2016 Aug:* Frontier Web Developer**
+* ***2016 Jul - 2016 Aug:* Web Front End Developer Intern**
 	* Boonray Inc.
 	* Duties included: Developing a web app to present 3D mesh models of roofs which will be built a Distributed photovoltaic power station through Three.js, including measuring roofs, simulation of placing Photovoltaic boards, automatically generating investigation report.
 	* This webapp increasing 50% income than before in sales of roof-measuring-UAVs.
@@ -45,7 +45,7 @@ redirect_from:
 	* [Tensorflow2.0](https://tensorflow.google.cn/)(Keras)
 	* Numpy, OpenCV, Scikit-learn, Pandas, Matplotlib
 * __Other Frameworks__
-	* Thrift protocals. (Cross-Platform Comunication Protocal, based on Python3.6)
+	* [The Apache Thrift software framework.](http://thrift.apache.org/)(Scalable cross-language services development, clients and servers based on Python3.6)
 	* Tensorflow Serving. (Deploy a DeepLearning model on a GPU-server)
 * __Other Skills__
 	* Program Architecture.(See my projects in [Github](https://github.com/mtonym) for insights.)
