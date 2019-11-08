@@ -6,3 +6,6 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
 
+  - title: "About my ROI"
+    url: /roi/
+
