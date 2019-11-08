@@ -30,9 +30,9 @@ redirect_from:
   * SIST, ShanghaiTech University
   * Modified DeepLab model with sparse feature encoding. Email to [me](maito:maoym.tony@gmail.com) for more information.
   * Supervisor: [Professor Xuming He](https://xmhe.bitbucket.io/).
-* ***2019 Aug - 2019 Nov*: Human Pose Tranfer By Encoding Features**
+* ***2019 Aug - 2019 Nov*: Controllable Human Pose Tranfer**
   * AI Lab, Bytedance Inc.
-  * In processing to CVPR2020.
+  * In proceeding to CVPR2020.
   * Collaborated with: Yifang Men, PKU.
 
 ## Skills
@@ -48,5 +48,5 @@ redirect_from:
 	* [The Apache Thrift software framework.](http://thrift.apache.org/)(Scalable cross-language services development, clients and servers based on Python3.6)
 	* Tensorflow Serving. (Deploy a DeepLearning model on a GPU-server)
 * __Other Skills__
-	* Program Architecture.(See my projects in [Github](https://github.com/mtonym) for insights.)
+	* Program Architecture.(See my projects in [Github](https://github.com/mtonym/pytorch-train) for insights.)
 	* Multi-Processing/Threading Programing.
