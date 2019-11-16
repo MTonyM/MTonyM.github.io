@@ -28,7 +28,7 @@ redirect_from:
 ## Project Experience
 
 <div style="align: center">
-<img src="../images/deeplabz.png" width="200" height="100">
+<img src="../images/deeplabz.png" width="400" height="200">
 </div>
 
 
