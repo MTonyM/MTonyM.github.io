@@ -15,7 +15,7 @@ redirect_from:
 * **B.S.** in Shanghai, ShanghaiTech University, ***2015 - 2019*** 
 
 ## Work Experience
-* ***2019 Jan - Present:* Computer Vision Researcher**
+* ***2019 Jan - Present:* Computer Vision Researcher and Engineer**
   * AI Lab, Bytedance Inc.
   * Duties included: Developing frameworks, research topics in human pose transfer, video object segmentation, font effect generation(Deeplearning).
   * Supervisor: Ke Li, Yuning Jiang
@@ -26,13 +26,41 @@ redirect_from:
 	* This webapp increasing 50% income than before in sales of roof-measuring-UAVs.
 
 ## Project Experience
+
+<div style="align: center">
+<img src="../images/deeplabz.png" width="200" height="100">
+</div>
+
+
+
+
 * ***2018 Sep - 2019 Jul*: DeepLearning Method in 3D Medical Image Segmentation**
   * SIST, ShanghaiTech University
-  * Modified DeepLab model with sparse feature encoding. Email to [me](maito:maoym.tony@gmail.com) for more information.
-  * Supervisor: [Professor Xuming He](https://xmhe.bitbucket.io/).
-* ***2019 Aug - 2019 Nov*: Controllable Human Pose Tranfer**
+  * Designed a new framework to consider the 3d information, it provided extra embedded information in the 
+    decoding module. I also considered an axis-aligned trident network. 
+  * Email to [me](mailto:maoym.troy@gmail.com) for more information.
+  * Supervisor: [Associate Professor Xuming He](https://xmhe.bitbucket.io/).
+
+
+* ***2019 Jul - 2019 Aug*: Dynamic Font Effect Transfer**
+    * AI Lab, Bytedance Inc.
+    * Implemented font effect transfer algorithm individually. 
+To transfer one natural dynamic effect by computing 
+the nearest neighbour field of reference dynamic image
+and target generated image. This work saved time for
+our graphics designer and enriched our dynamic effects 
+font library.
+    * Supervisor: [Yuning Jiang](mailto:jiangyuning@bytedance.com)
+
+* ***2019 Aug - Present*: Video Effect Rendering**
+    * AI Lab, Bytedance Inc.
+    * Developed video effects, transition effects, green-screen effects, artificial intelligence effects rendering framework, based on OpenGL, accelerated by GPU. In the process of software upgrades, I learned to deal with exceptions, avoid server stress, optimize frameworks by four revisions, and object-oriented programming. The construction of the video effects rendering framework has enabled the company's advertising business traffic to increase significantly, providing interfaces for computer vision technology access.
+    * Supervisor: [Ke Li](mailto:like.niklaus@bytedance.com)
+
+## Publications
+* ***2019 Aug - Present*: Controllable Human Pose Transfer**
   * AI Lab, Bytedance Inc.
-  * In proceeding to CVPR2020.
+  * In proceeding to CVPR2020, if you want more details, please contact [me](mailto:maoym.troy@gmail.com).
   * Collaborated with: Yifang Men, PKU.
 
 ## Skills
