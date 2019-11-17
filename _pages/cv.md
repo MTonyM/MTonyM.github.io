@@ -61,7 +61,6 @@ font library.
 * ***2019 Aug - Present*: Controllable Human Pose Transfer**
   * AI Lab, Bytedance Inc.
   * In proceeding to CVPR2020, if you want more details, please contact [me](mailto:maoym.troy@gmail.com).
-  * Collaborated with: Yifang Men, PKU.
 
 ## Skills
 *  __Coding__
