@@ -15,7 +15,7 @@ redirect_from:
 * **B.S.** in Shanghai, ShanghaiTech University, ***2015 - 2019*** 
 
 ## Work Experience
-* ***2019 Jan - Present:* Computer Vision Researcher and Engineer**
+* ***2019 Jan - Present:* Computer Vision Researcher and Engineer Intern**
   * AI Lab, Bytedance Inc.
   * Duties included: Developing frameworks, research topics in human pose transfer, video object segmentation, font effect generation(Deeplearning).
   * Supervisor: Ke Li, Yuning Jiang
@@ -52,19 +52,17 @@ our graphics designer and enriched our dynamic effects
 font library.
     * Supervisor: [Yuning Jiang](mailto:jiangyuning@bytedance.com)
 
-* ***2019 Aug - Present*: Video Effect Rendering**
+* ***2019 Aug - 2020 Mar*: Video Effect Rendering**
     * AI Lab, Bytedance Inc.
     * Developed video effects, transition effects, green-screen effects, artificial intelligence effects rendering framework, based on OpenGL, accelerated by GPU. In the process of software upgrades, I learned to deal with exceptions, avoid server stress, optimize frameworks by four revisions, and object-oriented programming. The construction of the video effects rendering framework has enabled the company's advertising business traffic to increase significantly, providing interfaces for computer vision technology access.
     * Supervisor: [Ke Li](mailto:like.niklaus@bytedance.com)
 
 ## Publications
-* ***2019 Aug - Present*: Controllable Human Pose Transfer**
-  * AI Lab, Bytedance Inc.
-  * In proceeding to CVPR2020, if you want more details, please contact [me](mailto:maoym.troy@gmail.com).
+  * Yifang Men, **Yiming Mao**, Yuning Jiang, Weiying Ma and Zhou Lian. Controllable Human Image Synthesis based on Attribute-Decomposed GAN. *In Proceedings of the IEEE conference on computer vision and pattern recognition, 2020.*
 
 ## Skills
 *  __Coding__
-	* Strongly skills in Python3.6/Python2.7
+	* Strongly skills in Python3.6+/Python2.7
 	* Medium skills in R language, golang, Matlab, Arduino, JavaScript, Java.
 	* Know C/C++, pointers.
 * __DeepLearning Frameworks__
