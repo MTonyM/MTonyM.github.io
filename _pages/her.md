@@ -14,16 +14,15 @@ redirect_from:
 ![her](../images/IMG_2490.GIF)
 
 She is my girlfriend as well as my high-school peer. 
-She is currently an undergraduate of industrial design 
-who is about to enter the honour year and is studying 
-at the University of New South Wales. She has deep 
-insights and in-depth research regards to design 
+She got her Bachelor's degree of industrial design in Mar 2020. 
+She has deep insights and in-depth research regards to design 
 concepts and design code – for the consideration 
 of human beings, and is also interested in the concept 
 of interaction design.
 
+She is now pursueing her Master of Computer Science in Australian National University.
 There is her personal website. Please do Check it out!
-[https://chloechen.design](https://chloechen.design)
+[Marvels Chloe](https://chloe-chen-493273.webflow.io)
 
 # Love You~
 # As Always.
