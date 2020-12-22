@@ -31,17 +31,13 @@ redirect_from:
 
 
 <div style="align: center">
-<img src="../images/deeplabz.png" width="400" height="200">
-<img src="../images/deeplabz.png" width="400" height="200">
-<img src="../images/deeplabz.png" width="400" height="200">
+<img src="../images/img_1.png" width="1000">
 </div>
 
-
 * ***2020 Apr - 2020 Jul*: DeepLearning Method in Pattern Generation**
-  * ZhiShang (Shanghai) Technology
   * Using PG-GAN, DC-GAN to generate patterns with artists styles, 
     training keypoint detection networks, deploying services includes 
-    super-resolution, image style transfer, border extraction.
+    super-resolution, image style transfer, color-transfer, border extraction.
   * Email to [me](mailto:maoym.tony@gmail.com) for more information.
   * Supervisor: [Associate Professor Yilu Zhou]()
 
