@@ -57,11 +57,4 @@ knowledge into a interpretable model via Teacher-Student network method.
 or the activated map. I am going to use unsupervised learning 
 method to analysis the distribution. Details under editing.
 
-Generative models: detailed wins!
----
-`under construction`
-
-Image-based tasks: backbones win!
----
-`under construction`
-
+update 2020 March
